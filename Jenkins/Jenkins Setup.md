@@ -1,15 +1,3 @@
-## Connect with Me
-
-- **YouTube**: [Watch and Learn on YouTube](https://www.youtube.com/@AshokKumar-DevOps)  
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ashokkumar-devops13/)  
-- **TopMate**: [Support or Consult on TopMate](https://topmate.io/ashok_kumar)  
-
-## Support This Project
-
-If you find this content helpful:
-- **Like** the [YouTube video](https://www.youtube.com/@AshokKumar-DevOps) for more such tutorials.
-- **Star** this GitHub repository to get the latest updates.
-
 # Jenkins-Zero-To-Hero
 
 Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
@@ -137,6 +125,7 @@ http://<ec2-instance-public-ip>:8080/restart
 ```
 
 The docker agent configuration is now successful.
+
 
 
 
