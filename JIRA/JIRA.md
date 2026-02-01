@@ -1,16 +1,4 @@
-## Connect with Me
-
-- **YouTube**: [Watch and Learn on YouTube](https://www.youtube.com/@AshokKumar-DevOps)  
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ashokkumar-devops13/)  
-- **TopMate**: [Support or Consult on TopMate](https://topmate.io/ashok_kumar)  
-
-## Support This Project
-
-If you find this content helpful:
-- **Like** the [YouTube video](https://www.youtube.com/@AshokKumar-DevOps) for more such tutorials.
-- **Star** this GitHub repository to get the latest updates.
-
-# 3. Jira
+# Jira
 
 ### **Jira Overview**
 
@@ -48,4 +36,5 @@ If you find this content helpful:
     - Enables direct linking of commits, branches, and build statuses to Jira issues.
 2. **Collaboration Tools**
     - Connect Jira with Slack, MS Teams, and Confluence to improve cross-team communication.
+
     - Notifications and updates can be shared across platforms, keeping all team members informed.
