@@ -1,15 +1,4 @@
-## Connect with Me
-
-- **YouTube**: [Watch and Learn on YouTube](https://www.youtube.com/@AshokKumar-DevOps)  
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ashokkumar-devops13/)  
-- **TopMate**: [Support or Consult on TopMate](https://topmate.io/ashok_kumar)  
-
-## Support This Project
-
-If you find this content helpful:
-- **Like** the [YouTube video](https://www.youtube.com/@AshokKumar-DevOps) for more such tutorials.
-- **Star** this GitHub repository to get the latest updates.
-
+### **What is a artifact Repository**
 
 
 Imagine a software development team working on a web application that consists of multiple microservices. Each microservice has its own codebase, dependencies, and associated artifacts. In this scenario, the **Nexus Artifact Repository** can play a crucial role in managing these artifacts.
@@ -159,4 +148,5 @@ Jenkins: —> Config file provider (plugin)
 stage('Nexus deploy') {
 steps {
 configFileProvider([configFile(fileId: '7779ecfb-5e60-4d41-9cbc-3ae12196a995', variable: 'mavensettings')]) {
+
 sh "mvn -s $mavensettings clean deploy -DskipTests=true"
