@@ -6,10 +6,11 @@ print('Hello world')
 
 a = 25
 '''
-b = "ashok"
+b = "vijay"
 '''
 print("a")
 print("b")
 
 print(a)
+
 print(b)
