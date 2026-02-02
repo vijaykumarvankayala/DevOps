@@ -1,15 +1,3 @@
-## Connect with Me
-
-- **YouTube**: [Watch and Learn on YouTube](https://www.youtube.com/@AshokKumar-DevOps)  
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ashokkumar-devops13/)  
-- **TopMate**: [Support or Consult on TopMate](https://topmate.io/ashok_kumar)  
-
-## Support This Project
-
-If you find this content helpful:
-- **Like** the [YouTube video](https://www.youtube.com/@AshokKumar-DevOps) for more such tutorials.
-- **Star** this GitHub repository to get the latest updates.
-
 # Kubernetes Troubleshooting Scenarios
 
 ## Scenario 1: Application Downtime During Deployment
@@ -154,3 +142,4 @@ If you find this content helpful:
 - Rotate and compress logs using `logrotate`.
 - Use a remote logging solution like Fluentd or Elasticsearch.
 - Monitor disk usage and scale logging pods as needed.
+
