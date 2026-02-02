@@ -1,6 +1,6 @@
 import requests
 
-repo = "gashok13193/DevOps-Docs"
+repo = "vijaykumarvankayala/DevOps"
 url = f"https://api.github.com/repos/{repo}"
 
 response=requests.get(url)
@@ -12,4 +12,5 @@ data = response.json()
 if response.status_code == 200:
     print(f"Repo: {data['name']}")
     print(f"Fork: {data['forks_count']}")
+
     print(f"Network: {data['network_count']}")
